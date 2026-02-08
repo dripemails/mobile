@@ -1,0 +1,7 @@
+{
+  "name": "DripEmails Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
