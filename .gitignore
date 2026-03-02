@@ -1,7 +1,7 @@
 # Dependencies & build
 node_modules/
 dist/
-
+*.jks
 # Editor / OS
 .idea/
 .vscode/
@@ -9,3 +9,4 @@ dist/
 Thumbs.db
 *.swp
 *~
+*.old
